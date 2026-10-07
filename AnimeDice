@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/seltonmt012/sel01-rbx/main/loader.lua"))()
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/82d5050044650975835841dbeb38f91e.lua"))()
